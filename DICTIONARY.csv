@@ -1,0 +1,19 @@
+Code,Category,English,Chinese,Japanese
+0x0001,Survival,Emergency Help!,紧急求助！,紧急事態！助けて！
+0x0002,Survival,I am here (Location),我在这里,私はここにいます
+0x0003,Survival,Medical assistance needed,需要医疗援助,医療援助が必要です
+0x0010,Survival,Live on!,活下去！,生きて！
+0x1001,Mutual_Aid,Can I borrow some green onions?,能借我一点葱吗？,ネギを少し貸してもらえませんか？
+0x1002,Mutual_Aid,Need a lighter/fire,借个火,火を貸してください
+0x1003,Mutual_Aid,Do you have a power bank?,有充电宝吗？,モバイルバッテリーを持っていますか？
+0x1004,Mutual_Aid,Can you take a photo for me?,能帮我拍张照吗？,写真を撮ってもらえますか？
+0x2001,Resonance,Look at the sunset!,看那夕阳！,あの夕日を見て！
+0x2002,Resonance,What a beautiful vibe!,此刻真美好,美しい瞬間ですね
+0x2003,Resonance,This music is great!,这首歌真好听,この曲、最高ですね
+0x3001,Etiquette,Sorry for the noise/smell,抱歉刚才的声响/气味,さっきの音/臭い、すみませんでした
+0x3002,Etiquette,Please keep social distance,请保持社交距离,距離を保ってください
+0x3003,Etiquette,Thank you,谢谢你,ありがとう
+0x4001,State,I am hungry,我饿了,お腹が空いた
+0x4002,State,I am lost,我迷路了,道に迷いました
+0x5001,Action,Look!,看！,見て！
+0x5002,Action,Listen!,听！,聞いて！
